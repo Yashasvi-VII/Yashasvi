@@ -30,9 +30,7 @@ Hi my name is yashasvi,I'm a passionate software developer eager to build scalab
 - **Programming Languages:** Golang, Java, JavaScript, C, C++, SQL
 - **Frameworks & Libraries:** React.js, Spring Boot
 - **Web Technologies:** HTML, CSS
-- **Tools & Platforms:** Postman, Git, GitHub,
-
-.
+- **Tools & Platforms:** Postman, Git, GitHub
 
 ## Connect with Me
 
